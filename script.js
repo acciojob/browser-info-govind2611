@@ -1,2 +1,1 @@
-const container=document.getElementById("browser-info");
-container.innerText="You are using "+navigator.appName+" version "+navigator.appVersion
+document.getElementById("browser-info").innerText="You are using "+navigator.appName+" version "+navigator.appVersion
